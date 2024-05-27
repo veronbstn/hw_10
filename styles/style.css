@@ -772,7 +772,6 @@ body {
 .footer__rights {
     text-align: right;
     font-size: var(--body-xs);
-    max-width: 8%;
 }
 
 /* End Footer */
